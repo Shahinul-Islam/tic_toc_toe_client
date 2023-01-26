@@ -26,6 +26,6 @@ This is tic toc toe online multiplayer game made with react, node and stream api
 
 # Important Links
 
-- Live Site
-- Github Client Repo
-- Github Server Repo
+- [Live Site](https://tictoctoev01.netlify.app/)
+- [Github Client Repo](https://github.com/Shahinul-Islam/tic_toc_toe_client)
+- [Github Server Repo](https://github.com/Shahinul-Islam/tic_toc_toe_server)
